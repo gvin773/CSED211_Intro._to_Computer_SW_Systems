@@ -31,9 +31,9 @@ memory organization and management, networking technology and protocols, and sup
  - 프로그램이 버퍼 오버플로로부터 스스로를 충분히 보호하지 못할 때 공격자가 보안 취약성을 이용할 수 있는 다양한 방법 이해
 
 ### CacheLab
+ - Cache Simulator 제작
+ - Matrix Transpose 최적화
 
 ### ?
 
 ### ?
-
-### Project
