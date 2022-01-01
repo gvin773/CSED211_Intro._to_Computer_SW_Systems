@@ -34,6 +34,8 @@ memory organization and management, networking technology and protocols, and sup
  - Cache Simulator 제작
  - Matrix Transpose 최적화
 
-### ?
+### ShellLab
+ - job control 지원하는 Unix shell 제작
+ - process control, signalling 이해
 
 ### ?
