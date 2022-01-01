@@ -38,4 +38,7 @@ memory organization and management, networking technology and protocols, and sup
  - job control 지원하는 Unix shell 제작
  - process control, signalling 이해
 
-### ?
+### MallocLab
+ - Dynamic Storage Allocator 제작
+ - segregated free list를 활용하여 malloc, free, realloc 함수 구현
+ 
